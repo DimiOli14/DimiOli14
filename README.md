@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá pessoas que programam melhor que eu!👋
 
-<!--
-**DimiOli14/DimiOli14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Tô trabalhando em... nada legal
+- 🌱 tô aprendendo... GML 
+- 👯 Tô colaborando no meu jogo horrível 
+- 🤔 Tô precisando de ajuda no build.bff 
+- 💬 Pergunte para mim sobre como ser chato
+- ⚡ Fato legal: legal
+
+<div>
+  <a href="https://github.com/DimiOli14">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DimiOli14&theme=tokyonight&show_icons=true"
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimiOli14&layout=compact&langs_count=16&theme=tokyonight"/>
+ </div>
